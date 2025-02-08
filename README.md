@@ -1,5 +1,5 @@
-#Sales Data Analysis - SQL Insights
-#📌 Project Overview
+##Sales Data Analysis - SQL Insights
+📌 ##Project Overview
 This project analyzes a sales dataset using advanced SQL queries, covering key business insights such as revenue trends, customer behavior, product performance, and shipping efficiency.
 
 #📊 Key Insights & Analysis
